@@ -1,3 +1,3 @@
-Archive Repo for SJSU CS151 projects.
+Archive Repo for SJSU CS151 projects: Mancala
 
 Co-Author: Yvonne Hoang, Eric Au
